@@ -53,7 +53,23 @@ I specialize in developing RESTful APIs and microservices using Java and the Spr
 
 ---
 
+### 🎓 Education
+
+- **Postgraduate in Java Architecture and Development**
+  *Faculdade de Informática e Administração Paulista - FIAP*
+
+- **Technologist in Systems Analysis and Development**  
+  *Faculdade de Informática e Administração Paulista - FIAP*
+
+- **Bachelor in Biomedicine**  
+  *Centro Universitário Nossa Senhora do Patrocínio - CEUNSP*
+
+- **Technologist in Environmental Management**  
+  *Universidade Anhembi Morumbi - UAM*
+
+---
+
 ### 📫 Contact
 
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [https://www.linkedin.com/in/welderessutti]
 - Email: welderessutti@gmail.com

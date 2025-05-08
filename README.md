@@ -11,7 +11,7 @@
 
 ---
 
-Experienced Backend Developer specialized in Java Architecture and Development, focused on building scalable, secure, and maintainable systems using modern backend technologies.
+Experienced backend developer specialized in Java architecture and development, focused on building scalable, secure, and maintainable systems using modern backend technologies.
 
 With over 2 years of experience in software development and a previous 11-year career in biomedical sciences, I bring analytical thinking and precision to every project. I hold a degree in Systems Analysis and Development and a post-graduate specialization in Java Architecture and Development.
 

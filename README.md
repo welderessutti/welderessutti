@@ -56,13 +56,13 @@ I specialize in developing RESTful APIs and microservices using Java and the Spr
 ### Academic Education
 
 - **Postgraduate in Java Architecture and Development**  
-  Faculdade de Informática e Administração Paulista - FIAP
+  *Faculdade de Informática e Administração Paulista - FIAP*
 
 - **Technologist in Systems Analysis and Development**  
-  Faculdade de Informática e Administração Paulista - FIAP
+  *Faculdade de Informática e Administração Paulista - FIAP*
 
 - **Bachelor in Biomedicine**  
-  Centro Universitário Nossa Senhora do Patrocínio - CEUNSP
+  *Centro Universitário Nossa Senhora do Patrocínio - CEUNSP*
 
 - **Technologist in Environmental Management**  
-  Universidade Anhembi Morumbi - UAM
+  *Universidade Anhembi Morumbi - UAM*

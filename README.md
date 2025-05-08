@@ -46,7 +46,7 @@ I specialize in developing RESTful APIs and microservices using Java and the Spr
 - HTML, CSS
 
 **Version Control & CLI**  
-- Git & GitHub · Linux/Windows CLI · Agile (Scrum)
+- Git & GitHub · Linux/Windows CLI
 
 **Agile Methodologies**  
 - Scrum 
@@ -56,4 +56,4 @@ I specialize in developing RESTful APIs and microservices using Java and the Spr
 ### 📫 Contact
 
 - LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- Email: welderessutti@gmail.com

@@ -1,5 +1,3 @@
-## Java Backend Developer | Microservices | RESTful APIs | Spring | Docker | RabbitMQ | AWS | Azure | Biomedical
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge"/>

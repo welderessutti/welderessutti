@@ -19,7 +19,7 @@ I specialize in developing RESTful APIs and microservices using Java and the Spr
 
 ---
 
-### 🔧 Technical Skills
+### Technical Skills
 
 **Languages & Frameworks**  
 - Java · Spring Boot · Spring Data · Spring Security · Spring Cloud
@@ -53,7 +53,7 @@ I specialize in developing RESTful APIs and microservices using Java and the Spr
 
 ---
 
-### 🎓 Education
+### Academic Education
 
 - **Postgraduate in Java Architecture and Development**  
   *Faculdade de Informática e Administração Paulista - FIAP*
@@ -69,7 +69,7 @@ I specialize in developing RESTful APIs and microservices using Java and the Spr
 
 ---
 
-### 📫 Contact
+### Contact
 
 - LinkedIn: linkedin.com/in/welderessutti
 - Email: welderessutti@gmail.com

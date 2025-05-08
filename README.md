@@ -1,56 +1,42 @@
-<h1 align="center">Olá, eu sou um Java Backend Developer 👋</h1>
+## Java Backend Developer | Microservices | RESTful APIs | Spring | Docker | AWS | Azure
 
-<p align="center">
-🚀 Apaixonado por transformar ideias em soluções de software limpas, escaláveis e eficientes.
-</p>
+Experienced Java Backend Developer focused on building scalable, secure, and maintainable systems using modern backend technologies.
 
----
+With over 2 years of experience in software development and a previous 11-year career in biomedical sciences, I bring analytical thinking and precision to every project. I hold a degree in Systems Analysis and Development and a post-graduate specialization in Java Architecture and Development.
 
-### 👨‍💻 Sobre mim
-
-Sou **Desenvolvedor Backend Java** com +2 anos de experiência em desenvolvimento de APIs RESTful e microsserviços utilizando **Java e Spring**.
-
-Antes da tecnologia, atuei por mais de 10 anos como **Biomédico**, onde desenvolvi raciocínio analítico, atenção a detalhes e pensamento sistêmico — habilidades que trago comigo para o mundo da programação.
-
-🎓 Graduado em Análise e Desenvolvimento de Sistemas  
-🎓 Pós-graduado em Arquitetura e Desenvolvimento Java
-
-Meus projetos são orientados por **Arquiteturas Limpa e Hexagonal**, sempre alinhados aos princípios **SOLID** e **DDD**, priorizando **qualidade de código**, **segurança** e **performance**.
+I specialize in developing RESTful APIs and microservices using Java and the Spring ecosystem, applying clean and hexagonal architectures aligned with SOLID principles and Domain-Driven Design (DDD). I’m also proficient in containerization, cloud platforms, messaging systems, and testing strategies.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🔧 Technical Skills
 
-**Backend & Arquitetura**  
-`Java` · `Spring Boot` · `RESTful API` · `Microsserviços` · `SOLID` · `DDD` · `Clean Architecture` · `Hexagonal`
+**Languages & Frameworks**  
+- Java · Spring Boot · Spring Data · Spring Security · Spring Cloud
 
-**Mensageria & Integração**  
-`RabbitMQ` · `Spring Cloud Stream` · `OpenFeign`
+**Architecture & Patterns**  
+- RESTful APIs · Microservices · Hexagonal Architecture · Clean Architecture · SOLID · DDD
 
-**Segurança**  
-`Spring Security` · `OAuth2` · `Keycloak` · `JWT`
+**Messaging & Integration**  
+- RabbitMQ · Spring Cloud Stream · OpenFeign
+
+**Security & Authentication**  
+- OAuth2 · Keycloak · JWT (Access Token Pattern)
 
 **DevOps & Cloud**  
-`Docker` · `AWS (ECS Fargate)` · `Azure (Web App)` · `GitHub Actions`
+- Docker · AWS (ECS Fargate) · Azure (Web App) · CI/CD with GitHub Actions
 
-**Banco de Dados**  
-`PostgreSQL` · `MySQL` · `MongoDB` · `Oracle`
+**Databases**  
+- PostgreSQL · MySQL · Oracle · MongoDB
 
-**Testes**  
-`JUnit 5` · `Mockito` · `REST Assured` · `Cucumber (BDD)`
+**Testing**  
+- JUnit 5 · Mockito · REST Assured · Cucumber (BDD)
 
-**Outros**  
-`Git` · `GitHub` · `Linux/Windows CLI` · `Scrum` · `HTML` · `CSS`
-
----
-
-### 🌐 Vamos nos conectar?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- 💌 Email: seu.email@exemplo.com
+**Others**  
+- Git & GitHub · Linux/Windows CLI · Agile (Scrum)
 
 ---
 
-### 💡 Frase que me representa:
+### 📫 Contact
 
-> “Código limpo é aquele que foi escrito com empatia por quem o mantém.” — Eu mesmo, inspirado em Uncle Bob 😉
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
+- Email: your.email@example.com

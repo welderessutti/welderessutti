@@ -11,11 +11,7 @@
 
 ---
 
-Experienced back-end developer specialized in Java architecture and development, focused on building scalable, secure, and maintainable systems using modern backend technologies.
-
-With over 2 years of experience in software development and a previous 11-year career in biomedical sciences, I bring analytical thinking and precision to every project. I hold a degree in Systems Analysis and Development and a post-graduate specialization in Java Architecture and Development.
-
-I specialize in developing RESTful APIs and microservices using Java and the Spring ecosystem, applying clean and hexagonal architectures aligned with SOLID principles and Domain-Driven Design (DDD). I’m also proficient in containerization, cloud platforms, messaging systems, and testing strategies.
+After 11 years working as a biomedical professional, I now work as a software developer specialized in Java architecture, focusing on microservices, messaging, and REST APIs using Spring. I apply DDD, SOLID, and Clean/Hexagonal Architecture to build scalable and well-structured systems, with experience in token-based security, automated testing, containerization, and cloud.
 
 ---
 

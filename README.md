@@ -11,7 +11,13 @@
 
 ---
 
-After 11 years working as a biomedical professional, I now work as a software developer specialized in Java architecture, focusing on microservices, messaging, and REST APIs using Spring. I apply DDD, SOLID, and Clean/Hexagonal Architecture to build scalable and well-structured systems, with experience in token-based security, automated testing, containerization, and cloud.
+Java backend developer with a strong background in healthcare and life sciences.
+
+I have 11+ years of experience as a biomedical scientist, working in clinical laboratories and regulated environments, which gave me deep understanding of healthcare processes, data quality, and system reliability.
+
+Over the last years, I specialized in Java backend development, building APIs and backend systems using Spring, microservices, and REST APIs.
+
+My main value is combining healthcare domain expertise with software engineering to deliver reliable, well-structured systems for HealthTech and technology-driven companies.
 
 ---
 

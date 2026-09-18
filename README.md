@@ -15,7 +15,7 @@
 
 ### About me
 
-I am a **Full-Stack Web Developer specialized in modern Angular and the Java/Spring ecosystem**, building maintainable web applications from responsive user interfaces to secure and scalable backend services.
+I am a **Full-Stack Software Developer specialized in modern Angular and the Java/Spring ecosystem**, building maintainable web applications from responsive user interfaces to secure and scalable backend services.
 
 My work covers the complete application flow:
 
